@@ -18,7 +18,7 @@ title:       "Alephant"
 keywords:    "Alephant"
 description: "Big Data Consultancy in London"
 source_link: "https://github.com/t413/SinglePaged"
-favicon:     "img/favicon.ico"   #put a path like: "img/favicon.ico"
+favicon:     "img/favicon_0_0.ico"   #put a path like: "img/favicon.ico"
 touch_icon:  
 #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: 
