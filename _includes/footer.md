@@ -1,8 +1,9 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Alephant is a Trading name of Openweb Analysts Ltd
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+[LinkedIn](https://www.linkedin.com/in/alexmclintock/ "LinkedIn")
 &mdash;
-this site is [open source]({{ site.source_link }})
+alex@alephant.co.uk
+
 
